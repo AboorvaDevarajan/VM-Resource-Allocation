@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='vmresource',
+setup(name='vmresourcealloc',
       version='1.0',
       description='OpenShift App',
       author='Aboorva Devarajan',
